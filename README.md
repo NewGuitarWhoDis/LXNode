@@ -8,3 +8,6 @@
 - https://thepihut.com/products/1-69-lcd-display-module-240x280
 - https://thepihut.com/products/1-47-rounded-spi-lcd-display-module-172x320
 
+## CONNECTORS:
+- https://www.neutrik.co.uk/product/ne8fah-lr-dae
+- https://www.neutrik.co.uk/product/nc5fah-lr-dae
