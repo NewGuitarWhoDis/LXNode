@@ -1,4 +1,4 @@
-# LXNode
+# LX Node
 
 ## DISPLAYS:
 - https://thepihut.com/products/1-5-ips-lcd-display-module-240-x-280
